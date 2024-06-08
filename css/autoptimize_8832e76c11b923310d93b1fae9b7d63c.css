@@ -62184,7 +62184,9 @@ h6 a:hover {
   }
 }
 
-
+.main-del{
+  
+}
 .delivered-section {
   justify-content: center;
   align-items: center;
@@ -62231,6 +62233,7 @@ h1 {
 .lnr-mustache {
   color: white;
   font-size: 50px;
+  
 }
 
 .stat h2 {
